@@ -1,4 +1,4 @@
 # artifact2
 ENGL 1101 - Artifact 2 
 
-This website is an artifact I created for ENGL 1101.
+This website was created as part of my artifact for ENGL 1101 at Georgia Tech.
